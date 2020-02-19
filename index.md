@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Hernan - GitHub</title>
   </head>
   <body>
     <h1><b>GitHub</b> - hernanpe </h1>
