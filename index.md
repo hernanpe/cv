@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" dir="ltr">
+<html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -88,7 +88,10 @@
   <div class="jumbotron">
     <div class="container">
       <h1 class="display-3">Hernan Perucca</h1>
-      <p><img src="photo_hp_200_200.jpg" alt="Photo Hernan Perucca - 200x200" /></p>
+      <figure class="figure">
+      <img src="photo_hp_200_200.jpg" class="figure-img img-fluid rounded" alt="Photo Hernan Perucca - 200x200">
+      <figcaption class="figure-caption">Hernan Perucca</figcaption>
+      </figure>
       <p>IT Analyst &#124; deployment, set up and configuration of business software solutions &#124; Assistance in digital platform migration; analysis of client and user needs &#124; 10+ years of experience in computer technical support for small and medium enterprises (SME) &#124; Digital document management and production of supports for audits</p>
       <p><a class="btn btn-primary btn-lg" href="https://www.linkedin.com/in/hernanpe" target="_blank" role="button">Contact me in LinkedIn &raquo;</a></p>
     </div>
